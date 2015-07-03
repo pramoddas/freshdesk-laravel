@@ -1,0 +1,22 @@
+{
+    "name": "Freshdesk/Freshdesk",
+    "description": "Freshdesk API for Laravel",
+	"keywords": ["Freshdesk", "laravel", "laravel4", "laravel5"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "pramod",
+            "email": ""
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "4.*|5.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Freshdesk/Freshdesk": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
